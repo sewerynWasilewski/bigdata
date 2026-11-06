@@ -1,0 +1,16 @@
+# Maven build output
+mapreduce/target/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Dane źródłowe (pobierane osobno z serwera kursu)
+input/
+data/
+*.zip

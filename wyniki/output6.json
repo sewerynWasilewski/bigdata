@@ -1,0 +1,95 @@
+{"continent":"Africa","country":"Netherlands Antilles","total_flights":10150,"avg_ticket_price":773.5784128078819,"rank_in_continent":2,"flights_deviation":128.8888888888887}
+{"continent":"Africa","country":"Greenland","total_flights":10141,"avg_ticket_price":770.0902021496894,"rank_in_continent":3,"flights_deviation":119.88888888888869}
+{"continent":"Africa","country":"Liberia","total_flights":10136,"avg_ticket_price":771.9183159037095,"rank_in_continent":4,"flights_deviation":114.88888888888869}
+{"continent":"Africa","country":"Vietnam","total_flights":10072,"avg_ticket_price":774.4147567513897,"rank_in_continent":5,"flights_deviation":50.88888888888869}
+{"continent":"Africa","country":"Guatemala","total_flights":10063,"avg_ticket_price":778.3620421345523,"rank_in_continent":6,"flights_deviation":41.88888888888869}
+{"continent":"Africa","country":"Syrian Arab Republic","total_flights":10047,"avg_ticket_price":774.9633910620083,"rank_in_continent":7,"flights_deviation":25.888888888888687}
+{"continent":"Africa","country":"Marshall Islands","total_flights":10036,"avg_ticket_price":779.8186538461538,"rank_in_continent":8,"flights_deviation":14.888888888888687}
+{"continent":"Africa","country":"Togo","total_flights":10026,"avg_ticket_price":775.015116696589,"rank_in_continent":9,"flights_deviation":4.888888888888687}
+{"continent":"Africa","country":"Lithuania","total_flights":10015,"avg_ticket_price":770.0431382925611,"rank_in_continent":10,"flights_deviation":-6.111111111111313}
+{"continent":"Africa","country":"Kiribati","total_flights":10012,"avg_ticket_price":774.5324990011987,"rank_in_continent":11,"flights_deviation":-9.111111111111313}
+{"continent":"Africa","country":"Timor-Leste","total_flights":10008,"avg_ticket_price":778.2318754996003,"rank_in_continent":12,"flights_deviation":-13.111111111111313}
+{"continent":"Africa","country":"Congo","total_flights":9985,"avg_ticket_price":781.5238287431147,"rank_in_continent":13,"flights_deviation":-36.11111111111131}
+{"continent":"Africa","country":"Yemen","total_flights":10152,"avg_ticket_price":772.3240159574468,"rank_in_continent":1,"flights_deviation":130.8888888888887}
+{"continent":"Africa","country":"Philippines","total_flights":9958,"avg_ticket_price":776.2789997991566,"rank_in_continent":14,"flights_deviation":-63.11111111111131}
+{"continent":"Africa","country":"Cote d'Ivoire","total_flights":9942,"avg_ticket_price":769.4708016495675,"rank_in_continent":15,"flights_deviation":-79.11111111111131}
+{"continent":"Africa","country":"Slovenia","total_flights":9906,"avg_ticket_price":775.0683282858873,"rank_in_continent":16,"flights_deviation":-115.11111111111131}
+{"continent":"Africa","country":"Wallis and Futuna","total_flights":9878,"avg_ticket_price":776.8466784774246,"rank_in_continent":17,"flights_deviation":-143.1111111111113}
+{"continent":"Africa","country":"Grenada","total_flights":9853,"avg_ticket_price":771.2167684969045,"rank_in_continent":18,"flights_deviation":-168.1111111111113}
+{"continent":"Asia","country":"Montserrat","total_flights":19876,"avg_ticket_price":773.8032702757097,"rank_in_continent":1,"flights_deviation":9306.70588235294}
+{"continent":"Asia","country":"Sao Tome and Principe","total_flights":10208,"avg_ticket_price":767.5609678683385,"rank_in_continent":2,"flights_deviation":-361.29411764705947}
+{"continent":"Asia","country":"Liberia","total_flights":10133,"avg_ticket_price":776.6620221059903,"rank_in_continent":3,"flights_deviation":-436.29411764705947}
+{"continent":"Asia","country":"Turkmenistan","total_flights":10102,"avg_ticket_price":771.4548752722234,"rank_in_continent":4,"flights_deviation":-467.29411764705947}
+{"continent":"Asia","country":"Sri Lanka","total_flights":10090,"avg_ticket_price":778.7551417244798,"rank_in_continent":5,"flights_deviation":-479.29411764705947}
+{"continent":"Asia","country":"Chile","total_flights":10031,"avg_ticket_price":777.8098355099193,"rank_in_continent":6,"flights_deviation":-538.2941176470595}
+{"continent":"Asia","country":"Djibouti","total_flights":10027,"avg_ticket_price":787.6776553306073,"rank_in_continent":7,"flights_deviation":-542.2941176470595}
+{"continent":"Asia","country":"Pakistan","total_flights":10008,"avg_ticket_price":770.3134882094323,"rank_in_continent":8,"flights_deviation":-561.2941176470595}
+{"continent":"Asia","country":"Argentina","total_flights":9998,"avg_ticket_price":780.5556041208242,"rank_in_continent":9,"flights_deviation":-571.2941176470595}
+{"continent":"Asia","country":"Grenada","total_flights":9984,"avg_ticket_price":772.6362970753204,"rank_in_continent":10,"flights_deviation":-585.2941176470595}
+{"continent":"Asia","country":"Marshall Islands","total_flights":9966,"avg_ticket_price":774.2126309452137,"rank_in_continent":11,"flights_deviation":-603.2941176470595}
+{"continent":"Asia","country":"New Caledonia","total_flights":9929,"avg_ticket_price":778.4474096082182,"rank_in_continent":12,"flights_deviation":-640.2941176470595}
+{"continent":"Asia","country":"Canada","total_flights":9920,"avg_ticket_price":767.5075514112904,"rank_in_continent":13,"flights_deviation":-649.2941176470595}
+{"continent":"Asia","country":"Benin","total_flights":9901,"avg_ticket_price":769.6150893849106,"rank_in_continent":14,"flights_deviation":-668.2941176470595}
+{"continent":"Asia","country":"Malaysia","total_flights":9899,"avg_ticket_price":769.9438135165167,"rank_in_continent":15,"flights_deviation":-670.2941176470595}
+{"continent":"Asia","country":"Italy","total_flights":9814,"avg_ticket_price":780.579660688812,"rank_in_continent":16,"flights_deviation":-755.2941176470595}
+{"continent":"Asia","country":"Kyrgyz Republic","total_flights":9792,"avg_ticket_price":777.3042708333334,"rank_in_continent":17,"flights_deviation":-777.2941176470595}
+{"continent":"Europe","country":"Slovakia (Slovak Republic)","total_flights":9920,"avg_ticket_price":774.8815514112904,"rank_in_continent":13,"flights_deviation":-63.61111111111131}
+{"continent":"Europe","country":"Ecuador","total_flights":10177,"avg_ticket_price":769.8650751695,"rank_in_continent":1,"flights_deviation":193.3888888888887}
+{"continent":"Europe","country":"Madagascar","total_flights":10161,"avg_ticket_price":773.62818128137,"rank_in_continent":2,"flights_deviation":177.3888888888887}
+{"continent":"Europe","country":"Mozambique","total_flights":10141,"avg_ticket_price":772.9170288926142,"rank_in_continent":3,"flights_deviation":157.3888888888887}
+{"continent":"Europe","country":"Gabon","total_flights":10128,"avg_ticket_price":774.6766567930489,"rank_in_continent":4,"flights_deviation":144.3888888888887}
+{"continent":"Europe","country":"Swaziland","total_flights":10034,"avg_ticket_price":772.6976479968107,"rank_in_continent":5,"flights_deviation":50.38888888888869}
+{"continent":"Europe","country":"Maldives","total_flights":10004,"avg_ticket_price":768.7933106757297,"rank_in_continent":6,"flights_deviation":20.388888888888687}
+{"continent":"Europe","country":"Vietnam","total_flights":10000,"avg_ticket_price":773.0047400000001,"rank_in_continent":7,"flights_deviation":16.388888888888687}
+{"continent":"Europe","country":"Cape Verde","total_flights":9973,"avg_ticket_price":777.8044399879676,"rank_in_continent":8,"flights_deviation":-10.611111111111313}
+{"continent":"Europe","country":"Zimbabwe","total_flights":9965,"avg_ticket_price":773.2660020070247,"rank_in_continent":9,"flights_deviation":-18.611111111111313}
+{"continent":"Europe","country":"Papua New Guinea","total_flights":9948,"avg_ticket_price":775.4952060715723,"rank_in_continent":10,"flights_deviation":-35.61111111111131}
+{"continent":"Europe","country":"Nigeria","total_flights":9943,"avg_ticket_price":773.7963703107714,"rank_in_continent":11,"flights_deviation":-40.61111111111131}
+{"continent":"Europe","country":"Libyan Arab Jamahiriya","total_flights":9923,"avg_ticket_price":776.9294286002216,"rank_in_continent":12,"flights_deviation":-60.61111111111131}
+{"continent":"Europe","country":"Svalbard & Jan Mayen Islands","total_flights":9914,"avg_ticket_price":777.0197054670164,"rank_in_continent":14,"flights_deviation":-69.61111111111131}
+{"continent":"Europe","country":"Lao People's Democratic Republic","total_flights":9882,"avg_ticket_price":776.5477615867234,"rank_in_continent":15,"flights_deviation":-101.61111111111131}
+{"continent":"Europe","country":"Jersey","total_flights":9869,"avg_ticket_price":775.8076532576755,"rank_in_continent":16,"flights_deviation":-114.61111111111131}
+{"continent":"Europe","country":"Haiti","total_flights":9865,"avg_ticket_price":772.0491941206286,"rank_in_continent":17,"flights_deviation":-118.61111111111131}
+{"continent":"Europe","country":"Zambia","total_flights":9858,"avg_ticket_price":774.2589957395008,"rank_in_continent":18,"flights_deviation":-125.61111111111131}
+{"continent":"North America","country":"United States Minor Outlying Islands","total_flights":10137,"avg_ticket_price":770.3036509815528,"rank_in_continent":2,"flights_deviation":-1131.25}
+{"continent":"North America","country":"Republic of Korea","total_flights":10052,"avg_ticket_price":771.5896339037007,"rank_in_continent":3,"flights_deviation":-1216.25}
+{"continent":"North America","country":"Australia","total_flights":20127,"avg_ticket_price":774.2327087991254,"rank_in_continent":1,"flights_deviation":8858.75}
+{"continent":"North America","country":"Iran","total_flights":10028,"avg_ticket_price":771.6882848025529,"rank_in_continent":4,"flights_deviation":-1240.25}
+{"continent":"North America","country":"Cayman Islands","total_flights":10018,"avg_ticket_price":771.4916041125973,"rank_in_continent":5,"flights_deviation":-1250.25}
+{"continent":"North America","country":"Portugal","total_flights":9984,"avg_ticket_price":775.1412139423077,"rank_in_continent":6,"flights_deviation":-1284.25}
+{"continent":"North America","country":"Uzbekistan","total_flights":9901,"avg_ticket_price":772.0949893950107,"rank_in_continent":7,"flights_deviation":-1367.25}
+{"continent":"North America","country":"Niue","total_flights":9899,"avg_ticket_price":782.2622143650873,"rank_in_continent":8,"flights_deviation":-1369.25}
+{"continent":"Oceania","country":"Hong Kong","total_flights":10121,"avg_ticket_price":772.9023466060665,"rank_in_continent":3,"flights_deviation":-1447.3846153846152}
+{"continent":"Oceania","country":"Romania","total_flights":20009,"avg_ticket_price":773.5410500274878,"rank_in_continent":1,"flights_deviation":8440.615384615385}
+{"continent":"Oceania","country":"United States Minor Outlying Islands","total_flights":19954,"avg_ticket_price":776.096630249574,"rank_in_continent":2,"flights_deviation":8385.615384615385}
+{"continent":"Oceania","country":"Argentina","total_flights":10086,"avg_ticket_price":770.6627027562959,"rank_in_continent":4,"flights_deviation":-1482.3846153846152}
+{"continent":"Oceania","country":"India","total_flights":10084,"avg_ticket_price":773.9221172153908,"rank_in_continent":5,"flights_deviation":-1484.3846153846152}
+{"continent":"Oceania","country":"Malawi","total_flights":10076,"avg_ticket_price":781.2308485510124,"rank_in_continent":6,"flights_deviation":-1492.3846153846152}
+{"continent":"Oceania","country":"Hungary","total_flights":10074,"avg_ticket_price":779.904187016081,"rank_in_continent":7,"flights_deviation":-1494.3846153846152}
+{"continent":"Oceania","country":"Netherlands","total_flights":10063,"avg_ticket_price":777.3102832157407,"rank_in_continent":8,"flights_deviation":-1505.3846153846152}
+{"continent":"Oceania","country":"Finland","total_flights":10049,"avg_ticket_price":773.2629813911831,"rank_in_continent":9,"flights_deviation":-1519.3846153846152}
+{"continent":"Oceania","country":"Bahrain","total_flights":10030,"avg_ticket_price":770.4300488534396,"rank_in_continent":10,"flights_deviation":-1538.3846153846152}
+{"continent":"Oceania","country":"Bangladesh","total_flights":9989,"avg_ticket_price":774.1821673841225,"rank_in_continent":11,"flights_deviation":-1579.3846153846152}
+{"continent":"Oceania","country":"Montenegro","total_flights":9982,"avg_ticket_price":775.0873943097577,"rank_in_continent":12,"flights_deviation":-1586.3846153846152}
+{"continent":"Oceania","country":"Cyprus","total_flights":9872,"avg_ticket_price":772.4554416531604,"rank_in_continent":13,"flights_deviation":-1696.3846153846152}
+{"continent":"South America","country":"Russian Federation","total_flights":20074,"avg_ticket_price":777.6562867390655,"rank_in_continent":1,"flights_deviation":9612.0}
+{"continent":"South America","country":"Benin","total_flights":10105,"avg_ticket_price":780.2030380999505,"rank_in_continent":2,"flights_deviation":-357.0}
+{"continent":"South America","country":"Sierra Leone","total_flights":10049,"avg_ticket_price":770.2481938501345,"rank_in_continent":3,"flights_deviation":-413.0}
+{"continent":"South America","country":"Canada","total_flights":10045,"avg_ticket_price":782.1637142857144,"rank_in_continent":4,"flights_deviation":-417.0}
+{"continent":"South America","country":"Belarus","total_flights":10033,"avg_ticket_price":773.6453274195156,"rank_in_continent":5,"flights_deviation":-429.0}
+{"continent":"South America","country":"Portugal","total_flights":10032,"avg_ticket_price":771.7598106060605,"rank_in_continent":6,"flights_deviation":-430.0}
+{"continent":"South America","country":"Bouvet Island (Bouvetoya)","total_flights":10031,"avg_ticket_price":778.1937065098195,"rank_in_continent":7,"flights_deviation":-431.0}
+{"continent":"South America","country":"Italy","total_flights":10025,"avg_ticket_price":778.2114982543641,"rank_in_continent":8,"flights_deviation":-437.0}
+{"continent":"South America","country":"Indonesia","total_flights":10019,"avg_ticket_price":777.0421828525803,"rank_in_continent":9,"flights_deviation":-443.0}
+{"continent":"South America","country":"Martinique","total_flights":10004,"avg_ticket_price":775.0187824870052,"rank_in_continent":10,"flights_deviation":-458.0}
+{"continent":"South America","country":"Saint Helena","total_flights":10003,"avg_ticket_price":768.3275747275819,"rank_in_continent":11,"flights_deviation":-459.0}
+{"continent":"South America","country":"Botswana","total_flights":9990,"avg_ticket_price":775.7035955955955,"rank_in_continent":12,"flights_deviation":-472.0}
+{"continent":"South America","country":"Aruba","total_flights":9982,"avg_ticket_price":773.641035864556,"rank_in_continent":13,"flights_deviation":-480.0}
+{"continent":"South America","country":"Sao Tome and Principe","total_flights":9966,"avg_ticket_price":778.1157706201084,"rank_in_continent":14,"flights_deviation":-496.0}
+{"continent":"South America","country":"United Arab Emirates","total_flights":9949,"avg_ticket_price":774.9879967835963,"rank_in_continent":15,"flights_deviation":-513.0}
+{"continent":"South America","country":"Switzerland","total_flights":9947,"avg_ticket_price":781.2265738413593,"rank_in_continent":16,"flights_deviation":-515.0}
+{"continent":"South America","country":"Trinidad and Tobago","total_flights":9926,"avg_ticket_price":777.6368869635302,"rank_in_continent":17,"flights_deviation":-536.0}
+{"continent":"South America","country":"Guinea-Bissau","total_flights":9899,"avg_ticket_price":774.842345691484,"rank_in_continent":18,"flights_deviation":-563.0}
+{"continent":"South America","country":"Sudan","total_flights":9896,"avg_ticket_price":765.3326354082458,"rank_in_continent":19,"flights_deviation":-566.0}
+{"continent":"South America","country":"United Kingdom","total_flights":9870,"avg_ticket_price":779.5735430597772,"rank_in_continent":20,"flights_deviation":-592.0}
+{"continent":"South America","country":"Seychelles","total_flights":9857,"avg_ticket_price":773.9359724053971,"rank_in_continent":21,"flights_deviation":-605.0}
